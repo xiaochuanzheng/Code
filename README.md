@@ -45,11 +45,11 @@ namespace work2
 ```
 ### 显示结果如下：
 
-![](./images/1.jpg)
-https://github.com/xiaochuanzheng/Code/tree/master/images/1.jpg
+![](./images/1.png)
+https://github.com/xiaochuanzheng/Code/tree/master/images/1.png
 
-![](./images/2.jpg)
-https://github.com/xiaochuanzheng/Code/tree/master/images/2.jpg
+![](./images/2.png)
+https://github.com/xiaochuanzheng/Code/tree/master/images/2.png
 
 ## 窗体： 按钮单击事件弹出另一个窗体
 ```
@@ -83,9 +83,9 @@ namespace work2._2
 ```
 ### 显示结果如下：
 
-![](./images/3.jpg)
-https://github.com/xiaochuanzheng/Code/tree/master/images/3.jpg
+![](./images/3.png)
+https://github.com/xiaochuanzheng/Code/tree/master/images/3.png
 
-![](./images/4.jpg)
-https://github.com/xiaochuanzheng/Code/tree/master/images4.jpg
+![](./images/4.png)
+https://github.com/xiaochuanzheng/Code/tree/master/images4.png
 
