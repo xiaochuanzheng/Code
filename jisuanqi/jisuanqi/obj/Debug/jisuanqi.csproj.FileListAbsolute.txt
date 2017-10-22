@@ -1,0 +1,11 @@
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\obj\Debug\jisuanqi.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\obj\Debug\jisuangqi.Form1.resources
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\obj\Debug\jisuanqi.Properties.Resources.resources
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\obj\Debug\jisuanqi.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\obj\Debug\jisuanqi.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\bin\Debug\jisuanqi.exe.config
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\bin\Debug\jisuanqi.exe
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\bin\Debug\jisuanqi.pdb
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\obj\Debug\jisuanqi.exe
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\obj\Debug\jisuanqi.pdb
+C:\Users\123\Desktop\Code\jisuanqi\jisuanqi\obj\Debug\program.Form1.resources

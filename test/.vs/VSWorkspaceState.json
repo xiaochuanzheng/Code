@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\test",
+    "\\test\\bin",
+    "\\test\\bin\\Debug",
+    "\\test\\obj",
+    "\\test\\obj\\Debug",
+    "\\test\\obj\\Release"
+  ],
+  "SelectedNode": "\\test\\Form1.Designer.cs",
+  "PreviewInSolutionExplorer": false
+}

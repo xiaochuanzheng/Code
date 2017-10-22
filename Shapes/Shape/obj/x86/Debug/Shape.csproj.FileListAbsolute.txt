@@ -1,0 +1,14 @@
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\bin\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\bin\Debug\ShapesInh.pdb
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\obj\x86\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shapes\obj\x86\Debug\ShapesInh.pdb
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shape\obj\x86\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shape\obj\x86\Debug\ShapesInh.pdb
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shape\bin\Debug\ShapesInh.exe
+E:\2016年秋《C#》\实验课\实验课：shapes\第二次作业示例代码\Shapes\Shape\bin\Debug\ShapesInh.pdb
+C:\Users\123\Desktop\Code\Shapes\Shape\bin\Debug\ShapesInh.exe
+C:\Users\123\Desktop\Code\Shapes\Shape\bin\Debug\ShapesInh.pdb
+C:\Users\123\Desktop\Code\Shapes\Shape\obj\x86\Debug\Shape.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Code\Shapes\Shape\obj\x86\Debug\Shape.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Code\Shapes\Shape\obj\x86\Debug\ShapesInh.exe
+C:\Users\123\Desktop\Code\Shapes\Shape\obj\x86\Debug\ShapesInh.pdb
