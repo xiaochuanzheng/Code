@@ -1,0 +1,10 @@
+C:\Users\123\Desktop\Code\work2\work2\bin\Debug\work2.exe.config
+C:\Users\123\Desktop\Code\work2\work2\bin\Debug\work2.exe
+C:\Users\123\Desktop\Code\work2\work2\bin\Debug\work2.pdb
+C:\Users\123\Desktop\Code\work2\work2\obj\Debug\work2.csprojResolveAssemblyReference.cache
+C:\Users\123\Desktop\Code\work2\work2\obj\Debug\work2.Form1.resources
+C:\Users\123\Desktop\Code\work2\work2\obj\Debug\work2.Properties.Resources.resources
+C:\Users\123\Desktop\Code\work2\work2\obj\Debug\work2.csproj.GenerateResource.Cache
+C:\Users\123\Desktop\Code\work2\work2\obj\Debug\work2.csproj.CoreCompileInputs.cache
+C:\Users\123\Desktop\Code\work2\work2\obj\Debug\work2.exe
+C:\Users\123\Desktop\Code\work2\work2\obj\Debug\work2.pdb
