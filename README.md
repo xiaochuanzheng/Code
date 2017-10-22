@@ -43,13 +43,13 @@ namespace work2
     }
 }
 ```
-###显示结果如下：
+### 显示结果如下：
 
-![](./imgs/壹加壹等于几.jpg)
-https://github.com/xiaochuanzheng/Code/tree/master/images/壹加壹等于几.jpg
+![](./imgs/1.jpg)
+https://github.com/xiaochuanzheng/Code/tree/master/images/1.jpg
 
-![](./imgs/等于二.jpg)
-https://github.com/xiaochuanzheng/Code/tree/master/images/等于二.jpg
+![](./imgs/2.jpg)
+https://github.com/xiaochuanzheng/Code/tree/master/images/2.jpg
 
 ## 窗体： 按钮单击事件弹出另一个窗体
 ```
@@ -81,11 +81,11 @@ namespace work2._2
     }
 }
 ```
-###显示结果如下：
+### 显示结果如下：
 
-![](./imgs/变出另一个按钮.jpg)
-https://github.com/xiaochuanzheng/Code/tree/master/images/变出另一个按钮.jpg
+![](./imgs/3.jpg)
+https://github.com/xiaochuanzheng/Code/tree/master/images/3.jpg
 
-![](./imgs/新打开的窗体.jpg)
-https://github.com/xiaochuanzheng/Code/tree/master/images/新打开的窗体.jpg
+![](./imgs/4.jpg)
+https://github.com/xiaochuanzheng/Code/tree/master/images4.jpg
 
